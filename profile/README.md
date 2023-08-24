@@ -2,8 +2,8 @@
 
 ## 📖 Curriculum
 
-|                    ❤️ Project                    |  ☁ Semester  |
-|---------------------------------------------------|--------------|
-|  🖥 [PRF192](https://github.com/fptqnk17/PRF192)  |  FALL2022    |
-|  🖥 [PRO192](https://github.com/fptqnk17/PRO192)  |  SPRING2023  |
-|  🖥 [DBI202](https://github.com/fptqnk17/DBI202)  |  SUMMER2023  |
+|                    ❤️ Project                    | 📅 Year |  ☁ Semester  |
+|---------------------------------------------------|--------|---------------|
+|  🖥 [PRF192](https://github.com/fptqnk17/PRF192)  |  2022  |     Fall      |
+|  🖥 [PRO192](https://github.com/fptqnk17/PRO192)  |  2023  |     Spring    |
+|  🖥 [DBI202](https://github.com/fptqnk17/DBI202)  |  2023  |     Summer    |
