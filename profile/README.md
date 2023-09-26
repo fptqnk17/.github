@@ -16,7 +16,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="4">2023</td>
+        <td rowspan="6">2023</td>
         <td>🌱 Spring</td>
         <td>
             🖥 <a href="https://github.com/fptqnk17/PRO192">PRO192</a>
@@ -34,9 +34,19 @@
         </td>
     </tr>
     <tr>
-        <td>🍂 Fall</td>
+        <td rowspan="3">🍂 Fall</td>
         <td>
             🖥 <a href="https://github.com/fptqnk17/JPD123">JPD123</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            🖥 <a href="https://github.com/fptqnk17/IOT102">IOT102</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            🖥 <a href="https://github.com/fptqnk17/PRJ301">PRJ301</a>
         </td>
     </tr>
 </table>
