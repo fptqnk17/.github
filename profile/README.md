@@ -1,5 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=fptqnk17&style=flat&label=visitors">
-
 ## 📖 Curriculum
 
 <table>
