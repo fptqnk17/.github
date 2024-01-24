@@ -50,5 +50,22 @@
                 🖥 <a href="https://github.com/fptqnk17/PRJ301">PRJ301</a>
             </td>
         </tr>
+        <tr>
+            <td rowspan="3">2024</td>
+            <td rowspan="3">🌸 Spring</td>
+            <td>
+                🖥 <a href="https://github.com/fptqnk17/FER202">FER202</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                🖥 <a href="https://github.com/fptqnk17/SWT301">SWT301</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                🖥 <a href="https://github.com/fptqnk17/PRN211">PRN211</a>
+            </td>
+        </td>
     </tbody>
 </table>
