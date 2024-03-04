@@ -23,7 +23,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="6">2023</td>
+            <td rowspan="7">2023</td>
             <td>🌱 Spring</td>
             <td>
                 🖥 <a href="https://github.com/fptqnk17/PRO192">PRO192</a>
@@ -35,7 +35,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="2">🌊 Summer</td>
+            <td rowspan="3">🌊 Summer</td>
             <td>
                 🖥 <a href="https://github.com/fptqnk17/DBI202">DBI202</a>
             </td>
@@ -53,6 +53,16 @@
                 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fptqnk17/LAB211">
                 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fptqnk17/LAB211">
                 <img alt="GitHub License" src="https://img.shields.io/github/license/fptqnk17/LAB211">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                🖥 <a href="https://github.com/fptqnk17/JPD113">JPD113</a>
+            </td>
+            <td>
+                <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fptqnk17/JPD113">
+                <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fptqnk17/JPD113">
+                <img alt="GitHub License" src="https://img.shields.io/github/license/fptqnk17/JPD113">
             </td>
         </tr>
         <tr>
