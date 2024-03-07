@@ -97,8 +97,8 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="3">2024</td>
-            <td rowspan="3">🌸 Spring</td>
+            <td rowspan="4">2024</td>
+            <td rowspan="4">🌸 Spring</td>
             <td>
                 🖥 <a href="https://github.com/fptqnk17/FER202">FER202</a>
             </td>
@@ -126,6 +126,16 @@
                 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fptqnk17/PRN211">
                 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fptqnk17/PRN211">
                 <img alt="GitHub License" src="https://img.shields.io/github/license/fptqnk17/PRN211">
+            </td>
+        </td>
+        <tr>
+            <td>
+                🖥 <a href="https://github.com/hardingadonis/saledock">SWP391</a>
+            </td>
+            <td>
+                <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hardingadonis/saledock">
+                <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hardingadonis/saledock">
+                <img alt="GitHub License" src="https://img.shields.io/github/license/hardingadonis/saledock">
             </td>
         </td>
     </tbody>
