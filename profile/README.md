@@ -145,5 +145,14 @@
                 <img alt="GitHub License" src="https://img.shields.io/github/license/fptqnk17/MMA301">
             </td>
         </tr>
+        <tr>
+            <td>2025</td>
+            <td>🐦 Spring</td>
+            <td> 🧑‍🤝‍🧑 <a href="https://github.com/lzaycoe">Lazy Code</a>
+            </td>
+            <td>
+                This organization stores repositories for WDP301 & PRM392 subjects.
+            </td>
+        </tr>
     </tbody>
 </table>
