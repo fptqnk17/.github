@@ -152,13 +152,21 @@
             </td>
         </tr>
         <tr>
-            <td>2025</td>
+            <td rowspan="2">2025</td>
             <td>🐦 Spring</td>
             <td> 🧑‍🤝‍🧑 <a href="https://github.com/lzaycoe">Lazy Code</a>
             </td>
             <td>
                 This organization stores repositories for WDP301 & PRM392 subjects.
             </td>
+        </tr>
+        <tr>
+          <td>🌊 Summer</td>
+          <td> 🧑‍🤝‍🧑 <a href="https://github.com/5-logic">Five Logic</a>
+          </td>
+          <td>
+            This organization stores repositories for Capstone Project.
+          </td>
         </tr>
     </tbody>
 </table>
